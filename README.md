@@ -1,6 +1,6 @@
 # Examen Final — Python (Pandas y NumPy)
 
-**Alumno:** Ismael Yoel Estrada Ramos — Ingeniería de Software, UTP
+**Alumna:** Vannia Angelica  — Ingenienieria de los papois
 
 Análisis del costo de vida por país (2017) usando Pandas, NumPy y Matplotlib.
 
